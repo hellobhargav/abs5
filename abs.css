@@ -1,0 +1,15 @@
+.about {
+  background-image: url("abs/cn-bg.jpg");
+  text-align: center;
+}
+h1{
+    text-transform: uppercase;
+    font-weight: 900;
+}
+.gift{
+    background-image: url("abs/gift-bg.jpg");
+    color: white;
+}
+.gift p{
+    color: yellow;
+}

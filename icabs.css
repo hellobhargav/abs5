@@ -1,0 +1,43 @@
+.topbar {
+  background-color: #18496b;
+  color: white;
+}
+.carousel-item .col-lg-8 {
+  text-align: end;
+}
+.content-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.carousel-item h1 {
+  color: #18496b;
+}
+.carousel-item button {
+  background-color: #18496b;
+  color: white;
+  padding: 8px 25px;
+  border: none;
+  border-radius: 10px;
+}
+.about {
+  text-align: center;
+}
+.about h2 span {
+  color: #18496b;
+}
+.about p {
+  text-align: justify;
+}
+.services {
+  background-image: url("assets/services.jpeg");
+  color: white;
+  text-align: center;
+}
+
+@media(max-width:768px) {
+    .topbar{
+        display: none;
+    }
+}
